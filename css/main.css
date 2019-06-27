@@ -1832,7 +1832,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d0ffe7;
+  background: #9cffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2671,7 +2671,7 @@ embed {
   display: inline-block;
 }
 body::before {
-  background-image: url("../../images/timg1.gif");
+  background-image: url("../../images/timg2.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
