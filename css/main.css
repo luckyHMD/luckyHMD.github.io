@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff60a2;
+  background: #fff19c;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2905,7 +2905,7 @@ hr {
   }
 }
 body::before {
-  background-image: url("../../images/han.jpg");
+  background-image: url("../../images/qx.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
